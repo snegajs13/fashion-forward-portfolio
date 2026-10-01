@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
-import { ArrowDown, ArrowRight, ArrowUpRight, ChevronLeft, ChevronRight, Instagram, Menu, X } from "lucide-react";
+import { ArrowDown, ArrowUpRight, ChevronLeft, ChevronRight, Menu, X } from "lucide-react";
 import { Button } from "../components/Button";
 import heroImage from "../assets/editorial-hero.jpg";
 import tailoredImage from "../assets/look-tailored.jpg";
