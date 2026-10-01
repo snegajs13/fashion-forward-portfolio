@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the fashion portfolio as a single anchored home page, with look data and shopping discovery links local to that page; this keeps the small editorial site easy to maintain without claiming unconfigured affiliate tracking.
+- Keep shared colors, typography, and interaction styling in `src/styles.css`; this keeps the visual system consistent across the page and dialog.
